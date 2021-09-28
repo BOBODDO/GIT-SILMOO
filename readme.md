@@ -6,3 +6,5 @@
 
 ## Branch
 1. git branch testbr master (master 브랜치에서 testbr 브랜치를 만들어라)
+2. VSCODE 파란색 하단 줄에서 master, testbr 사이를 쉽게 변경할 수 있다.
+3. 
